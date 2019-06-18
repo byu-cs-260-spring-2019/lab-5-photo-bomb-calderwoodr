@@ -1,4 +1,4 @@
-# lab5sub
+# learning-vue-cli
 
 ## Project setup
 ```
